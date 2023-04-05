@@ -1,0 +1,10 @@
+.checkerboard .tile {
+  background-image: linear-gradient(to right, red, blue, red);
+  background-attachment: fixed;
+}
+
+.tile {
+  border-color: cyan;
+  border-width: 1px;
+  border-style: solid;
+}
